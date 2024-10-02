@@ -22,12 +22,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - name: Run the notebooks
-        run: |
-          cd intentional
-          bash init.sh
-          cd src/main/python
-          bash runNotebooks.sh
       - name: Run
         run: |
           cd intentional
@@ -38,6 +32,12 @@ jobs:
           bash download.sh
           bash start.sh
           bash stop.sh
+      - name: Run the notebooks
+        run: |
+          cd intentional
+          bash init.sh
+          cd src/main/python
+          bash runNotebooks.sh
 
   release:
     needs:
