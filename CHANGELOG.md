@@ -1,3 +1,25 @@
+## [1.0.26](https://github.com/w4bo/predict/compare/1.0.25...1.0.26) (2024-10-06)
+
+### Dependency updates
+
+* **deps:** update dependency autots to v0.6.15 ([ee7a13c](https://github.com/w4bo/predict/commit/ee7a13cdc2c90e2eba765ad5a032fdea53eff12e))
+* **deps:** update dependency notebook to v7.2.2 ([9a5f0ff](https://github.com/w4bo/predict/commit/9a5f0ff00168f529dbc9bbde537e7e9d39d2c2ef))
+* **deps:** update dependency prophet to v1.1.6 ([11a6c05](https://github.com/w4bo/predict/commit/11a6c0590ce2e02c64b5e381980771ecd9a10093))
+* **deps:** update dependency scikit-learn to v1.5.2 ([5da189a](https://github.com/w4bo/predict/commit/5da189aceaf3d61747820e7482e6ddb07cf92124))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.110 ([39957d9](https://github.com/w4bo/predict/commit/39957d954a440467f664f34b8be7759bc3040b15))
+* **deps:** update dependency sqlalchemy to v2.0.35 ([e123641](https://github.com/w4bo/predict/commit/e123641207b8672279759a56d87adb91105fed5e))
+* **deps:** update dependency statsmodels to v0.14.4 ([9f60c91](https://github.com/w4bo/predict/commit/9f60c911a650ff31e64b522291bb9557299f85bd))
+* **deps:** update node.js to 20.17 ([c1d938e](https://github.com/w4bo/predict/commit/c1d938ecf51c66af314efbadb19e78c672a60a8f))
+
+### Bug Fixes
+
+* **deps:** update dependency io.github.cdimascio:dotenv-kotlin to v6.4.2 ([dbfba7d](https://github.com/w4bo/predict/commit/dbfba7d4f097f3f3fba8aa71aff80d5a5179572a))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.2.2 ([e64e8a2](https://github.com/w4bo/predict/commit/e64e8a219ee7fc8514c34c06285e99d174b21d23))
+* **deps:** update actions/setup-node action to v4.0.4 ([0b34441](https://github.com/w4bo/predict/commit/0b34441b35308ccaf355217c5e609a52a5812894))
+
 ## [1.0.25](https://github.com/w4bo/predict/compare/1.0.24...1.0.25) (2024-10-02)
 
 ### Dependency updates
