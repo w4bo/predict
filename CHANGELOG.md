@@ -1,3 +1,9 @@
+## [1.0.27](https://github.com/w4bo/predict/compare/1.0.26...1.0.27) (2024-10-06)
+
+### Bug Fixes
+
+* **deps:** update dependency org.antlr:antlr4 to v4.13.2 ([47c06f4](https://github.com/w4bo/predict/commit/47c06f4a4fbd2bbd25f1ddc08065e78e8fd96e47))
+
 ## [1.0.26](https://github.com/w4bo/predict/compare/1.0.25...1.0.26) (2024-10-06)
 
 ### Dependency updates
