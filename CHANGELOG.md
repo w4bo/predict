@@ -1,3 +1,13 @@
+## [1.0.28](https://github.com/w4bo/predict/compare/1.0.27...1.0.28) (2024-10-07)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.111 ([d60b6f3](https://github.com/w4bo/predict/commit/d60b6f33fbfbd6511b2854281b93ff89712856c0))
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.10.5 ([4d03f21](https://github.com/w4bo/predict/commit/4d03f212eb66c0b21aabfcc115e57d302592eaf5))
+
 ## [1.0.27](https://github.com/w4bo/predict/compare/1.0.26...1.0.27) (2024-10-06)
 
 ### Bug Fixes
