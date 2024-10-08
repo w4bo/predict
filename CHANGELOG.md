@@ -1,3 +1,9 @@
+## [1.0.29](https://github.com/w4bo/predict/compare/1.0.28...1.0.29) (2024-10-08)
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.16 ([c421685](https://github.com/w4bo/predict/commit/c421685068cc7f69aea3685a726ad610db5a358d))
+
 ## [1.0.28](https://github.com/w4bo/predict/compare/1.0.27...1.0.28) (2024-10-07)
 
 ### Dependency updates
