@@ -1,3 +1,19 @@
+## [1.0.30](https://github.com/w4bo/predict/compare/1.0.29...1.0.30) (2024-10-10)
+
+### Dependency updates
+
+* **deps:** update dependency scipy to v1.14.1 ([5235b20](https://github.com/w4bo/predict/commit/5235b209c439d9c4b418199719fa8e9430c3e400))
+* **deps:** update node.js to 20.18 ([1c58543](https://github.com/w4bo/predict/commit/1c58543c56652a91ba1e421fe490d4e284abc149))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.18.0 ([91f9a4c](https://github.com/w4bo/predict/commit/91f9a4c6bedb0ca831252aeeb3a06e763fcefd36))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.2.1 ([a4a1fca](https://github.com/w4bo/predict/commit/a4a1fcaf2d6297f87ea5a90d9cecc4a33cb3fe52))
+* **deps:** update actions/setup-java action to v4.4.0 ([e88dbe0](https://github.com/w4bo/predict/commit/e88dbe0e168cb460e6f04324c5902dfe49e7b3a0))
+
 ## [1.0.29](https://github.com/w4bo/predict/compare/1.0.28...1.0.29) (2024-10-08)
 
 ### Bug Fixes
