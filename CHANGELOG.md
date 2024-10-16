@@ -1,3 +1,14 @@
+## [1.0.31](https://github.com/w4bo/predict/compare/1.0.30...1.0.31) (2024-10-16)
+
+### Dependency updates
+
+* **deps:** update dependency sqlalchemy to v2.0.36 ([257a5c4](https://github.com/w4bo/predict/commit/257a5c43a73119f1ca5db2aab269857205c33759))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.datatype:jackson-datatype-jsr310 to v2.18.0 ([f218517](https://github.com/w4bo/predict/commit/f21851783c3b1112955368937f0bfc9f7d4fa4ce))
+* **deps:** update dependency com.google.guava:guava to v33.3.1-jre ([43993b2](https://github.com/w4bo/predict/commit/43993b23c6f8236e324e278772c456c7265d35e1))
+
 ## [1.0.30](https://github.com/w4bo/predict/compare/1.0.29...1.0.30) (2024-10-10)
 
 ### Dependency updates
