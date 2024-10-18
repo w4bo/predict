@@ -1,3 +1,13 @@
+## [1.0.32](https://github.com/w4bo/predict/compare/1.0.31...1.0.32) (2024-10-18)
+
+### Dependency updates
+
+* **deps:** update dependency psycopg2-binary to v2.9.10 ([903fd2b](https://github.com/w4bo/predict/commit/903fd2b88fb92573466c0d596d66c9ccbe6c1b26))
+
+### Bug Fixes
+
+* **deps:** update dependency com.github.doyaaaaaken:kotlin-csv-jvm to v1.10.0 ([677002c](https://github.com/w4bo/predict/commit/677002cc5fe96689ae585ff4b0407b0db0c42e2c))
+
 ## [1.0.31](https://github.com/w4bo/predict/compare/1.0.30...1.0.31) (2024-10-16)
 
 ### Dependency updates
