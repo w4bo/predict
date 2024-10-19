@@ -1,3 +1,9 @@
+## [1.0.34](https://github.com/w4bo/predict/compare/1.0.33...1.0.34) (2024-10-19)
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-csv to v1.12.0 ([ae34539](https://github.com/w4bo/predict/commit/ae34539c251894109c5489c1347e738f33830b3c))
+
 ## [1.0.33](https://github.com/w4bo/predict/compare/1.0.32...1.0.33) (2024-10-18)
 
 ### Bug Fixes
