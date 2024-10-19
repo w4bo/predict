@@ -1,3 +1,9 @@
+## [1.0.35](https://github.com/w4bo/predict/compare/1.0.34...1.0.35) (2024-10-19)
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-lang3 to v3.17.0 ([4f0ed0f](https://github.com/w4bo/predict/commit/4f0ed0faeaa612c5d432eca235f5a0c24a8e2a3e))
+
 ## [1.0.34](https://github.com/w4bo/predict/compare/1.0.33...1.0.34) (2024-10-19)
 
 ### Bug Fixes
