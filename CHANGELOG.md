@@ -1,3 +1,14 @@
+## [1.0.37](https://github.com/w4bo/predict/compare/1.0.36...1.0.37) (2024-10-22)
+
+### Dependency updates
+
+* **deps:** update dependency pyarrow to v16 ([e0bc721](https://github.com/w4bo/predict/commit/e0bc7213112fcdbd6de62e9d9250fa479108304f))
+* **deps:** update dependency pyarrow to v17 ([4b867b3](https://github.com/w4bo/predict/commit/4b867b33aad8b8c407edf610b5990be5a4092ffb))
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.11.3 ([3707805](https://github.com/w4bo/predict/commit/370780535d1d12610677ff02b6f9b85f1c93df66))
+
 ## [1.0.36](https://github.com/w4bo/predict/compare/1.0.35...1.0.36) (2024-10-20)
 
 ### Bug Fixes
