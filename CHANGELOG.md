@@ -1,3 +1,21 @@
+## [1.0.38](https://github.com/w4bo/predict/compare/1.0.37...1.0.38) (2024-10-29)
+
+### Dependency updates
+
+* **deps:** update dependency pyarrow to v18 ([89fe300](https://github.com/w4bo/predict/commit/89fe300ea115b7f22034a45e0043de5aa46a4883))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.112 ([1824048](https://github.com/w4bo/predict/commit/18240483391608bf8cade9321eb97b1510a3ac08))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.113 ([009f344](https://github.com/w4bo/predict/commit/009f344367298a13a2b664f0636e7f6009a678d8))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.18.1 ([c81710c](https://github.com/w4bo/predict/commit/c81710c28e6001af8942484416bc0b8fddaba54c))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v4.2.2 ([670aa6f](https://github.com/w4bo/predict/commit/670aa6f72112d2186df74164f66d04093cced414))
+* **deps:** update actions/setup-java action to v4.5.0 ([78cf7ce](https://github.com/w4bo/predict/commit/78cf7ce51e59dd57d027922809c34f427840150c))
+* **deps:** update actions/setup-node action to v4.1.0 ([b3052f9](https://github.com/w4bo/predict/commit/b3052f926521752d33dabb5de8dd61dccccad63c))
+
 ## [1.0.37](https://github.com/w4bo/predict/compare/1.0.36...1.0.37) (2024-10-22)
 
 ### Dependency updates
