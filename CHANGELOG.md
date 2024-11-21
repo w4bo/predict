@@ -1,3 +1,16 @@
+## [1.0.40](https://github.com/w4bo/predict/compare/1.0.39...1.0.40) (2024-11-21)
+
+### Dependency updates
+
+* **deps:** update dependency autots to v0.6.16 ([#135](https://github.com/w4bo/predict/issues/135)) ([14f8501](https://github.com/w4bo/predict/commit/14f8501943ee861417e311bd386a45c0692f4c38))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.114 ([63ce85b](https://github.com/w4bo/predict/commit/63ce85bbed0bb9882a5eb5acfb75a5063aea31cd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.115 ([#134](https://github.com/w4bo/predict/issues/134)) ([b131721](https://github.com/w4bo/predict/commit/b13172199328d9f15ab18afe9a7f7ffda662c5c6))
+* **deps:** update node.js to v22 ([7474a37](https://github.com/w4bo/predict/commit/7474a374cb04dcaefbde4bf5d1245bb99593b760))
+
+### Bug Fixes
+
+* **deps:** update dependency commons-io:commons-io to v2.18.0 ([#136](https://github.com/w4bo/predict/issues/136)) ([bc8058e](https://github.com/w4bo/predict/commit/bc8058ebeb000a697ae6b662089014f24f930ffd))
+
 ## [1.0.39](https://github.com/w4bo/predict/compare/1.0.38...1.0.39) (2024-10-30)
 
 ### Bug Fixes
