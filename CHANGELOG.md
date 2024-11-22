@@ -1,3 +1,9 @@
+## [1.0.41](https://github.com/w4bo/predict/compare/1.0.40...1.0.41) (2024-11-22)
+
+### Bug Fixes
+
+* **deps:** update dependency io.ktor:ktor-server-servlet to v2.3.13 ([#137](https://github.com/w4bo/predict/issues/137)) ([daebeba](https://github.com/w4bo/predict/commit/daebeba80c8a089a267d655bd9683fb4241b72ff))
+
 ## [1.0.40](https://github.com/w4bo/predict/compare/1.0.39...1.0.40) (2024-11-21)
 
 ### Dependency updates
