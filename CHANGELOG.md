@@ -1,3 +1,13 @@
+## [1.0.42](https://github.com/w4bo/predict/compare/1.0.41...1.0.42) (2024-11-29)
+
+### Dependency updates
+
+* **deps:** update dependency pyarrow to v18.1.0 ([#138](https://github.com/w4bo/predict/issues/138)) ([9ee4fc8](https://github.com/w4bo/predict/commit/9ee4fc88ac44d5de297e3e021918a23dacbbb80f))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.datatype:jackson-datatype-jsr310 to v2.18.2 ([#139](https://github.com/w4bo/predict/issues/139)) ([dcf2b24](https://github.com/w4bo/predict/commit/dcf2b247ca28383cbcb1bc0a6fdb77ae3f6ac01f))
+
 ## [1.0.41](https://github.com/w4bo/predict/compare/1.0.40...1.0.41) (2024-11-22)
 
 ### Bug Fixes
