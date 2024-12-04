@@ -1,3 +1,13 @@
+## [1.0.43](https://github.com/w4bo/predict/compare/1.0.42...1.0.43) (2024-12-04)
+
+### Dependency updates
+
+* **deps:** update node.js to 22.12 ([#141](https://github.com/w4bo/predict/issues/141)) ([93ad8ed](https://github.com/w4bo/predict/commit/93ad8ed01f87e159bb855d72c4b85ba8f183f85e))
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.dataformat:jackson-dataformat-yaml to v2.18.2 ([#140](https://github.com/w4bo/predict/issues/140)) ([cf312d8](https://github.com/w4bo/predict/commit/cf312d8148b0efecf1ca24abab0e24641ae3570d))
+
 ## [1.0.42](https://github.com/w4bo/predict/compare/1.0.41...1.0.42) (2024-11-29)
 
 ### Dependency updates
