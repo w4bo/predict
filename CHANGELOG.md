@@ -1,3 +1,16 @@
+## [1.0.44](https://github.com/w4bo/predict/compare/1.0.43...1.0.44) (2024-12-13)
+
+### Dependency updates
+
+* **deps:** update dependency autots to v0.6.17 ([#145](https://github.com/w4bo/predict/issues/145)) ([9ec3bf0](https://github.com/w4bo/predict/commit/9ec3bf0c3ec29472667ddbce88bebaaa5b757122))
+* **deps:** update dependency notebook to v7.3.1 ([#142](https://github.com/w4bo/predict/issues/142)) ([b8edd33](https://github.com/w4bo/predict/commit/b8edd334e05611e60116a46321ea6fe8f82d4028))
+* **deps:** update dependency scikit-learn to v1.6.0 ([#146](https://github.com/w4bo/predict/issues/146)) ([e8d10e5](https://github.com/w4bo/predict/commit/e8d10e5ce98092aaa1e737fcf69b7d0325871bec))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.116 ([#143](https://github.com/w4bo/predict/issues/143)) ([6cfc60e](https://github.com/w4bo/predict/commit/6cfc60ea11da23472eff4dd2ed328e8c91237679))
+
+### Bug Fixes
+
+* **deps:** update dependency edu.stanford.nlp:stanford-corenlp to v4.5.8 ([#147](https://github.com/w4bo/predict/issues/147)) ([5efbfc7](https://github.com/w4bo/predict/commit/5efbfc71de84daff4a71d1c0a8f677a3f19b4b13))
+
 ## [1.0.43](https://github.com/w4bo/predict/compare/1.0.42...1.0.43) (2024-12-04)
 
 ### Dependency updates
