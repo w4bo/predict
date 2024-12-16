@@ -1,3 +1,9 @@
+## [1.0.45](https://github.com/w4bo/predict/compare/1.0.44...1.0.45) (2024-12-16)
+
+### Bug Fixes
+
+* **deps:** update dependency io.github.cdimascio:dotenv-kotlin to v6.5.0 ([#148](https://github.com/w4bo/predict/issues/148)) ([2e6180e](https://github.com/w4bo/predict/commit/2e6180ed4489f9395a62b381ebee7c8f8542cdee))
+
 ## [1.0.44](https://github.com/w4bo/predict/compare/1.0.43...1.0.44) (2024-12-13)
 
 ### Dependency updates
