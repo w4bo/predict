@@ -1,3 +1,9 @@
+## [1.0.46](https://github.com/w4bo/predict/compare/1.0.45...1.0.46) (2024-12-17)
+
+### Bug Fixes
+
+* **deps:** update junit5 monorepo to v5.11.4 ([#149](https://github.com/w4bo/predict/issues/149)) ([61150b3](https://github.com/w4bo/predict/commit/61150b340a6f747a72791d3b708b58672ed3434f))
+
 ## [1.0.45](https://github.com/w4bo/predict/compare/1.0.44...1.0.45) (2024-12-16)
 
 ### Bug Fixes
