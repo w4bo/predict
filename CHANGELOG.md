@@ -1,3 +1,13 @@
+## [1.0.47](https://github.com/w4bo/predict/compare/1.0.46...1.0.47) (2024-12-18)
+
+### Bug Fixes
+
+* **deps:** update dependency com.google.guava:guava to v33.4.0-jre ([#150](https://github.com/w4bo/predict/issues/150)) ([91c6e6e](https://github.com/w4bo/predict/commit/91c6e6e52dd1542a9e9a4e20edc0e8d3b2e5e802))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.6.0 ([#151](https://github.com/w4bo/predict/issues/151)) ([abdb28d](https://github.com/w4bo/predict/commit/abdb28d914a8a43cea4f92ef49919be3f75996f2))
+
 ## [1.0.46](https://github.com/w4bo/predict/compare/1.0.45...1.0.46) (2024-12-17)
 
 ### Bug Fixes
