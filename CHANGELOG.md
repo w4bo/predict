@@ -1,3 +1,18 @@
+## [1.0.48](https://github.com/w4bo/predict/compare/1.0.47...1.0.48) (2025-01-09)
+
+### Dependency updates
+
+* **deps:** update dependency notebook to v7.3.2 ([#153](https://github.com/w4bo/predict/issues/153)) ([e84cd3d](https://github.com/w4bo/predict/commit/e84cd3de6d20e96830ba1ff3d9c5b72fc1003919))
+* **deps:** update dependency scipy to v1.15.0 ([#155](https://github.com/w4bo/predict/issues/155)) ([424d185](https://github.com/w4bo/predict/commit/424d185daef9caddd5bcca397b702c0ed79886d5))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.117 ([#152](https://github.com/w4bo/predict/issues/152)) ([0010b22](https://github.com/w4bo/predict/commit/0010b22e0cc839b722b45da5a22da8cc683986aa))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.118 ([#154](https://github.com/w4bo/predict/issues/154)) ([d280e95](https://github.com/w4bo/predict/commit/d280e95c60dffbda98b21324d14503235771f3a8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.119 ([#159](https://github.com/w4bo/predict/issues/159)) ([b57f128](https://github.com/w4bo/predict/commit/b57f128970a69414bb1c39b60217dc113a2c2be5))
+* **deps:** update node.js to 22.13 ([#156](https://github.com/w4bo/predict/issues/156)) ([69f7fb9](https://github.com/w4bo/predict/commit/69f7fb99f880f6f17dc63f3ddeda7aa799ad0680))
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20241224 ([#157](https://github.com/w4bo/predict/issues/157)) ([1a6e8e2](https://github.com/w4bo/predict/commit/1a6e8e2df24dd83018375600d937283af46f606d))
+
 ## [1.0.47](https://github.com/w4bo/predict/compare/1.0.46...1.0.47) (2024-12-18)
 
 ### Bug Fixes
