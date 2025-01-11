@@ -1,3 +1,14 @@
+## [1.0.49](https://github.com/w4bo/predict/compare/1.0.48...1.0.49) (2025-01-11)
+
+### Dependency updates
+
+* **deps:** update dependency scikit-learn to v1.6.1 ([#161](https://github.com/w4bo/predict/issues/161)) ([4d8fdf7](https://github.com/w4bo/predict/commit/4d8fdf7fb2d211659199ae1c66b897c805521f49))
+* **deps:** update dependency sqlalchemy to v2.0.37 ([#160](https://github.com/w4bo/predict/issues/160)) ([f59cf29](https://github.com/w4bo/predict/commit/f59cf296d2eca16e89115ae3833dce52be25d934))
+
+### Bug Fixes
+
+* **deps:** update dependency org.json:json to v20250107 ([#158](https://github.com/w4bo/predict/issues/158)) ([d271d4c](https://github.com/w4bo/predict/commit/d271d4cb6e42771b965d941b9ac9b7e12a5bfcc0))
+
 ## [1.0.48](https://github.com/w4bo/predict/compare/1.0.47...1.0.48) (2025-01-09)
 
 ### Dependency updates
