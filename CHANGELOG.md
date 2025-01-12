@@ -1,3 +1,13 @@
+## [1.0.50](https://github.com/w4bo/predict/compare/1.0.49...1.0.50) (2025-01-12)
+
+### Dependency updates
+
+* **deps:** update dependency scipy to v1.15.1 ([#162](https://github.com/w4bo/predict/issues/162)) ([ee74e59](https://github.com/w4bo/predict/commit/ee74e59a0476d3facc7a50441a5f216a965ccf20))
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.commons:commons-csv to v1.13.0 ([#163](https://github.com/w4bo/predict/issues/163)) ([1feaee4](https://github.com/w4bo/predict/commit/1feaee4079e6ec9a0a706a2f30bd1d60cfbf2e97))
+
 ## [1.0.49](https://github.com/w4bo/predict/compare/1.0.48...1.0.49) (2025-01-11)
 
 ### Dependency updates
