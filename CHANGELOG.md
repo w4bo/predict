@@ -1,3 +1,9 @@
+## [1.0.51](https://github.com/w4bo/predict/compare/1.0.50...1.0.51) (2025-01-13)
+
+### Bug Fixes
+
+* **deps:** update dependency com.opencsv:opencsv to v5.10 ([#164](https://github.com/w4bo/predict/issues/164)) ([a0ac9ae](https://github.com/w4bo/predict/commit/a0ac9ae0671bce48dd88f52cfd469809ed354c35))
+
 ## [1.0.50](https://github.com/w4bo/predict/compare/1.0.49...1.0.50) (2025-01-12)
 
 ### Dependency updates
