@@ -1,3 +1,30 @@
+## [1.0.52](https://github.com/w4bo/predict/compare/1.0.51...1.0.52) (2025-02-23)
+
+### Dependency updates
+
+* **deps:** update dependency autopep8 to v2.3.2 ([#165](https://github.com/w4bo/predict/issues/165)) ([34a70b2](https://github.com/w4bo/predict/commit/34a70b2073d882f81ec94af0f8815bf6271f36bc))
+* **deps:** update dependency autots to v0.6.18 ([#172](https://github.com/w4bo/predict/issues/172)) ([9f84fc4](https://github.com/w4bo/predict/commit/9f84fc4faea161149716bc7abdf419494cb7038c))
+* **deps:** update dependency autots to v0.6.19 ([#174](https://github.com/w4bo/predict/issues/174)) ([e131f44](https://github.com/w4bo/predict/commit/e131f447becf024952a644748c4c22bac2892cdf))
+* **deps:** update dependency pyarrow to v19 ([#166](https://github.com/w4bo/predict/issues/166)) ([4e4aab2](https://github.com/w4bo/predict/commit/4e4aab21850d8b0a259e2c726bb26106c7710914))
+* **deps:** update dependency pyarrow to v19.0.1 ([#178](https://github.com/w4bo/predict/issues/178)) ([e96e5fe](https://github.com/w4bo/predict/commit/e96e5fee15b77a9392636bde6e11c245ec6a5c53))
+* **deps:** update dependency scipy to v1.15.2 ([#177](https://github.com/w4bo/predict/issues/177)) ([b10e19b](https://github.com/w4bo/predict/commit/b10e19b92e7f54168df75a4d12fb01e1ed06e5df))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.121 ([#169](https://github.com/w4bo/predict/issues/169)) ([1916fad](https://github.com/w4bo/predict/commit/1916faddfdc5e36e1de46a476d7a6e135fcb69bd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.122 ([#170](https://github.com/w4bo/predict/issues/170)) ([abf0189](https://github.com/w4bo/predict/commit/abf0189a68ab483a038842e247c8473543491640))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([#175](https://github.com/w4bo/predict/issues/175)) ([2e88190](https://github.com/w4bo/predict/commit/2e881904c41a93ebc02ccf2fa2f8e8be6b837da8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.124 ([#176](https://github.com/w4bo/predict/issues/176)) ([19f847f](https://github.com/w4bo/predict/commit/19f847ff3eab44ad701391771fc44af4c06a45d4))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.125 ([#179](https://github.com/w4bo/predict/issues/179)) ([a7a7f77](https://github.com/w4bo/predict/commit/a7a7f77043b48bfb7d844b709b4990cea7e0bbfd))
+* **deps:** update dependency sqlalchemy to v2.0.38 ([#171](https://github.com/w4bo/predict/issues/171)) ([af36a03](https://github.com/w4bo/predict/commit/af36a0303b0b47117c7673011350fdc20f9e2f6e))
+* **deps:** update node.js to 22.14 ([#173](https://github.com/w4bo/predict/issues/173)) ([e0a5ef4](https://github.com/w4bo/predict/commit/e0a5ef49defdf25bbdfb0dae3fa1135ca01c366c))
+
+### Bug Fixes
+
+* **deps:** update dependency io.github.cdimascio:dotenv-kotlin to v6.5.1 ([#181](https://github.com/w4bo/predict/issues/181)) ([844263c](https://github.com/w4bo/predict/commit/844263cac038e1f119341701a7948731b5f1aeaa))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-java action to v4.7.0 ([#168](https://github.com/w4bo/predict/issues/168)) ([289fc60](https://github.com/w4bo/predict/commit/289fc60b09437a5255c190108279a97d6b7d8af6))
+* **deps:** update actions/setup-node action to v4.2.0 ([#167](https://github.com/w4bo/predict/issues/167)) ([1070e73](https://github.com/w4bo/predict/commit/1070e7372792ee397bc6220f7546ff907877a56c))
+
 ## [1.0.51](https://github.com/w4bo/predict/compare/1.0.50...1.0.51) (2025-01-13)
 
 ### Bug Fixes
