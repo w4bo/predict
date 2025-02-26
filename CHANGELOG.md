@@ -1,3 +1,9 @@
+## [1.0.53](https://github.com/w4bo/predict/compare/1.0.52...1.0.53) (2025-02-26)
+
+### Bug Fixes
+
+* **deps:** update slf4j monorepo to v2.0.17 ([#182](https://github.com/w4bo/predict/issues/182)) ([4e479f7](https://github.com/w4bo/predict/commit/4e479f778fccd78db434c842d0b045cc43ce3c09))
+
 ## [1.0.52](https://github.com/w4bo/predict/compare/1.0.51...1.0.52) (2025-02-23)
 
 ### Dependency updates
